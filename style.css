@@ -1,0 +1,19 @@
+.container{
+    background-color: black;
+}
+
+.navbar{
+    height: 20%;;
+    background-color: black;
+}
+
+button{
+    float: right;
+    margin: 16px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    float: right;
+    margin: 16px;
+}
